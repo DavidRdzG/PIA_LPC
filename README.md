@@ -1,8 +1,8 @@
 # PIA LPC
 ## Tabla de contenidos
-1. [Tarea 3]
-2. [Tarea 6]
-3. [Tarea 8]
+1. [Tarea_3](#Tarea_3)
+2. [Tarea_6](#Tarea_6)
+3. [Tarea_8](#Tarea_8)
 ### Tarea 3
 ***
 Script en BASH, contiene 3 herramientas: Scanner de hosts activos, Scanner de puertos abiertos e Informacion del host.
